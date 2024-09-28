@@ -1,5 +1,11 @@
+import Restaurant from "./component/Basics/Restaurant";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Restaurant />
+    </>
+  );
 }
 
 export default App;
